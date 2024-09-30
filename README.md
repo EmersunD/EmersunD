@@ -1,7 +1,7 @@
 ## Olá, me chamo Emerson! ;) 🦆
 ° 👨‍💻 -- Estudando programação
 
-° 📈 -- Atualmente sigo como **desenvolvedor junior**.
+° 📈 -- Atualmente sigo estudando para me tornar um **desenvolvedor junior**.
 
 ° 🖥️ -- Desenvolvimento focado na linguagem:
 
