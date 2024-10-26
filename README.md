@@ -1,4 +1,4 @@
-## Olá, me chamo Emerson! ;) 🦆
+## Olá, me chamo Emerson! ;) 
 ° 👨‍💻 -- Estudando programação
 
 ° 📈 -- Atualmente sigo estudando para me tornar um **desenvolvedor junior**.
